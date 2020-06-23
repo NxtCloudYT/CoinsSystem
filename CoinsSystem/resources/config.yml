@@ -1,0 +1,30 @@
+---
+#CoinSystem/MoneySystem
+CoinsPrefix: "§aCoinsSystem §8| §7"
+
+
+#Set this to Cloud if you use Multible Servers
+ConfigMode: "Data"
+
+StartCoins: "750"
+
+YourCoinsMessage: "You have"
+HasCoinsMessage: "has"
+
+NotEnoughtCoins: "You don't have enought Coins!"
+
+GetCoinsMessage: "You Got "
+GetCoinsFromPlayerMessage: " from "
+
+SuccesPayedMessage: "You payed "
+
+SetCoinsMessage: "You set his Coins to: §2"
+YourMoneySetMessage: "Your Coins was set to: §2"
+
+SetMoneyPrivateMessage: "Your Coins was set Private!"
+SetMoneyPublicMessage: "Your Coins was set Public!"
+CoinsArePrivateMessage: "This Player has Coins Private!"
+
+AddMoneyMessage: "You addet him "
+RemMoneyMessage: "You removed him "
+...
